@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SMSReader&amp;Verify</string>
+    <string name="permission_denied">PERMISSION DENIED</string>
+    <string name="exit">EXIT</string>
+    <string name="toast_format" formatted="false">%s has been copied to clipboard.</string>
+
+    <string name="suggestion1">After Android 6.0 (Marshmallow), permission should be authorized by user</string>
+    <string name="suggestion2">App will be hide from launcher.</string>
+
+    <string name="get_permission">GET PERMISSION</string>
+    <string name="ok">OK</string>
+</resources>
